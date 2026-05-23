@@ -1,3 +1,4 @@
+https://qa-436tjpo2p-akshays-projects-0b8110d2.vercel.app
 # QA Bot
 
 This repository contains a RAG (Retrieval-Augmented Generation) chatbot backend and a React frontend.
