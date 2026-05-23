@@ -1,0 +1,30 @@
+# Node
+node_modules/
+dist/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+pip-wheel-metadata/
+*.egg-info/
+build/
+
+# Env files
+.env
+.env.*
+
+# IDEs and editors
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+ehthumbs.db
